@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T14:14:55.104Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="5ufeen_xYUKz_5JMl04R" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T17:26:00.442Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="kbx8lG1TRPQQIGscfPUG" version="24.2.3" type="github">
   <diagram name="Page-1" id="vP7GKqEe_UTquGLLv8JT">
-    <mxGraphModel dx="1463" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="70fF8Lxhg9ggZ1zZ8sWO-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="700" height="550" as="geometry" />
+        </mxCell>
         <mxCell id="70fF8Lxhg9ggZ1zZ8sWO-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="810" y="490" width="120" height="160" as="geometry" />
         </mxCell>
@@ -80,7 +83,7 @@
         </mxCell>
         <mxCell id="70fF8Lxhg9ggZ1zZ8sWO-21" value="I2C" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="70fF8Lxhg9ggZ1zZ8sWO-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-27" as="offset" />
+            <mxPoint x="18" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70fF8Lxhg9ggZ1zZ8sWO-22" value="Chuỗi định danh " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
