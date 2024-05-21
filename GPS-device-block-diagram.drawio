@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T17:12:03.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="s4MbqayGXp3HQpq9_on9" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T19:33:06.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="-QXvAM8EGXc5_40HLlcz" version="24.4.4" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="1135" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1081" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -84,10 +84,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PSbmAlQU5YadSZT0BGco-18" value="&lt;div&gt;Wake up&lt;/div&gt;&lt;div&gt;Button&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="390" y="830" width="130" height="60" as="geometry" />
+          <mxGeometry x="570" y="830" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PSbmAlQU5YadSZT0BGco-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="PSbmAlQU5YadSZT0BGco-25" target="PSbmAlQU5YadSZT0BGco-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PSbmAlQU5YadSZT0BGco-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.726;entryY=0.992;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryPerimeter=0;" parent="1" source="PSbmAlQU5YadSZT0BGco-25" target="PSbmAlQU5YadSZT0BGco-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PSbmAlQU5YadSZT0BGco-28" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;I2C&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PSbmAlQU5YadSZT0BGco-26" vertex="1" connectable="0">
           <mxGeometry x="0.0179" y="1" relative="1" as="geometry">
@@ -95,7 +97,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PSbmAlQU5YadSZT0BGco-25" value="Screen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="695" y="830" width="130" height="60" as="geometry" />
+          <mxGeometry x="750" y="830" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnGT1ezritJti-A0fDPi-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnGT1ezritJti-A0fDPi-1" target="PSbmAlQU5YadSZT0BGco-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnGT1ezritJti-A0fDPi-1" value="&lt;div&gt;Charging&lt;/div&gt;&lt;div&gt;port&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="830" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
