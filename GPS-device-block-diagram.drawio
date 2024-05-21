@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T16:50:13.778Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="W8BFo2p81LkXEK44nziq" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T16:50:50.237Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="imVbprkutE1XFPfJXhK7" version="24.4.4" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1390" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -74,10 +74,10 @@
             <mxPoint x="-4" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PSbmAlQU5YadSZT0BGco-16" value="ESP32" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="PSbmAlQU5YadSZT0BGco-16" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1000" y="630" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PSbmAlQU5YadSZT0BGco-17" value="ESP32" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="PSbmAlQU5YadSZT0BGco-17" value="Mobile app" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1000" y="830" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PSbmAlQU5YadSZT0BGco-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PSbmAlQU5YadSZT0BGco-18" target="PSbmAlQU5YadSZT0BGco-25">
