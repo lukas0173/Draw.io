@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T05:11:01.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="aBZorIJWNef21KqTWOoy" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T05:17:03.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="wI8I-p2lL8QLLpeYoJ7I" version="24.4.4" type="github">
   <diagram name="Page-1" id="KdNaNpp9Obg8dHBMpSNs">
-    <mxGraphModel dx="1261" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="378" dy="190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,20 @@
         <mxCell id="suguRdIa5Bpx1KucpHp3-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" vertex="1" parent="suguRdIa5Bpx1KucpHp3-14">
           <mxGeometry x="43.363782696177054" y="52.68752556237219" width="21.04354124748492" height="44.08997955010224" as="geometry" />
         </mxCell>
+        <mxCell id="suguRdIa5Bpx1KucpHp3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="suguRdIa5Bpx1KucpHp3-16" target="suguRdIa5Bpx1KucpHp3-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="520" as="sourcePoint" />
+            <mxPoint x="540" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="suguRdIa5Bpx1KucpHp3-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;/Location&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="500" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="suguRdIa5Bpx1KucpHp3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="suguRdIa5Bpx1KucpHp3-17" target="suguRdIa5Bpx1KucpHp3-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="600" as="sourcePoint" />
+            <mxPoint x="540" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="suguRdIa5Bpx1KucpHp3-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;/Reference&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="585" width="150" height="50" as="geometry" />
@@ -31,13 +43,25 @@
         <mxCell id="suguRdIa5Bpx1KucpHp3-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;/DeviceId&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="680" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="suguRdIa5Bpx1KucpHp3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="suguRdIa5Bpx1KucpHp3-19" target="suguRdIa5Bpx1KucpHp3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="suguRdIa5Bpx1KucpHp3-19" value="location_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="500" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="suguRdIa5Bpx1KucpHp3-20" value="reference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="suguRdIa5Bpx1KucpHp3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="suguRdIa5Bpx1KucpHp3-20" target="suguRdIa5Bpx1KucpHp3-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="620" as="sourcePoint" />
+            <mxPoint x="320" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suguRdIa5Bpx1KucpHp3-20" value="reference_location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="585" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="suguRdIa5Bpx1KucpHp3-21" value="reference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="suguRdIa5Bpx1KucpHp3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suguRdIa5Bpx1KucpHp3-21" target="suguRdIa5Bpx1KucpHp3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suguRdIa5Bpx1KucpHp3-21" value="device_list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="680" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
