@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="fo2ZFbMv7i-mtw4j-5B2">
-    <mxGraphModel dx="4940" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4143" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,13 +146,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="570" width="330" height="350" as="geometry" />
+          <mxGeometry x="-30" y="570" width="800" height="350" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-93" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Làm quen, tạo không khí thoải mái&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="477.5" y="590" width="255" height="30" as="geometry" />
+          <mxGeometry x="83.75" y="576" width="572.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFY3ZGv-hsx-T2HltXSC-94" value="Hỏi về công việc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="470" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="FFY3ZGv-hsx-T2HltXSC-94" value="Sinh viên" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry y="623" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-95" value="Đang đi đâu,&lt;div&gt;làm gì&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="620" y="640" width="120" height="60" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="-350" y="1360" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-102" value="Hỏi về gia đình" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="470" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFY3ZGv-hsx-T2HltXSC-103" target="FFY3ZGv-hsx-T2HltXSC-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
