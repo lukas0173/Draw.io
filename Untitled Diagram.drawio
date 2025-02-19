@@ -146,22 +146,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="570" width="800" height="350" as="geometry" />
+          <mxGeometry x="-30" y="570" width="800" height="430" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-93" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Làm quen, tạo không khí thoải mái&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="83.75" y="576" width="572.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFY3ZGv-hsx-T2HltXSC-94" value="Sinh viên" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="FFY3ZGv-hsx-T2HltXSC-94" value="Sinh viên" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;gradientColor=#FFCCCC;gradientDirection=south;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry y="623" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FFY3ZGv-hsx-T2HltXSC-95" value="Đang đi đâu,&lt;div&gt;làm gì&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="620" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-101" value="Tùy trường hợp mà tạo không khí thoải mái trước khi đề xuất phỏng vấn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-350" y="1360" width="570" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FFY3ZGv-hsx-T2HltXSC-102" value="Hỏi về gia đình" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="10" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFY3ZGv-hsx-T2HltXSC-103" target="FFY3ZGv-hsx-T2HltXSC-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -410,6 +404,18 @@
         </mxCell>
         <mxCell id="1UOftkpvVk_TveOY_pJG-8" value="Nhắc về vấn đề quay chụp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-250" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-9" value="Tình hình học tập" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="638" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-10" value="Khó khăn khi học xa nhà" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="638" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1UOftkpvVk_TveOY_pJG-10" target="1UOftkpvVk_TveOY_pJG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-12" value="Trường lớp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="638" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
