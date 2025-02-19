@@ -423,6 +423,21 @@
         <mxCell id="1UOftkpvVk_TveOY_pJG-15" value="Nhân viên cửa hàng tiện lợi" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-650" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-17" value="Phụ huynh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-18" value="Công việc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-19" value="Người ở đâu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-20" value="Gia đình" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="425" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-22" value="Phụ huynh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="815" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
