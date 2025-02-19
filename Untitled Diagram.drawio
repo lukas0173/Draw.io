@@ -200,7 +200,7 @@
           <mxGeometry x="203.75" y="1205" width="880" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-121" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Nội dung chính&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="837.5" y="1215" width="292.5" height="30" as="geometry" />
+          <mxGeometry x="820" y="1220" width="263.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -250,7 +250,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-138" value="Trải nghiệm của người phỏng vấn với vấn đề được đặt ra" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="916.25" y="1275" width="135" height="110" as="geometry" />
+          <mxGeometry x="885" y="1275" width="135" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFY3ZGv-hsx-T2HltXSC-139" target="FFY3ZGv-hsx-T2HltXSC-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
