@@ -197,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-121" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Nội dung chính&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="820" y="1220" width="263.75" height="30" as="geometry" />
+          <mxGeometry x="855" y="1220" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -238,7 +238,7 @@
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-133" value="Không" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="781.25" y="1045" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFY3ZGv-hsx-T2HltXSC-135" value="Kết thúc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="FFY3ZGv-hsx-T2HltXSC-135" value="Kết thúc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="420" y="1045" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFY3ZGv-hsx-T2HltXSC-137" value="Không" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
@@ -444,6 +444,12 @@
         </mxCell>
         <mxCell id="1UOftkpvVk_TveOY_pJG-33" value="Hỏi một chút về thông tin cá nhân" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1210" width="340" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1UOftkpvVk_TveOY_pJG-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Kết thúc phỏng vấn&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="65" y="1220" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
