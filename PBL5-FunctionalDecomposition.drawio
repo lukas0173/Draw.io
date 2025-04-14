@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="FL-jsjt1f4KcjmQmpSDP">
-    <mxGraphModel>
+    <mxGraphModel dx="1428" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lqIPBj84MhmXkh_4QggL-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIPBj84MhmXkh_4QggL-2" value="Fridge Content Management" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="415" y="170" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIPBj84MhmXkh_4QggL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIPBj84MhmXkh_4QggL-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIPBj84MhmXkh_4QggL-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIPBj84MhmXkh_4QggL-6" value="Inventory Tracking &amp; Monitoring" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="175" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIPBj84MhmXkh_4QggL-7" value="Data Processing &amp; User Assistance" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="415" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIPBj84MhmXkh_4QggL-8" value="User Interaction &amp; Control" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="655" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
