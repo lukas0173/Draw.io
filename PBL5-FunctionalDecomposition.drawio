@@ -56,7 +56,7 @@
           <mxGeometry x="300" y="400" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqIPBj84MhmXkh_4QggL-16" value="Generate Notifications/Reminders" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="410" width="115" height="40" as="geometry" />
+          <mxGeometry x="311.25" y="410" width="177.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lqIPBj84MhmXkh_4QggL-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="700" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqIPBj84MhmXkh_4QggL-20" value="Shopping Recommendations" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="712.5" y="410" width="115" height="40" as="geometry" />
+          <mxGeometry x="701.25" y="410" width="137.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lqIPBj84MhmXkh_4QggL-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="890" y="400" width="120" height="60" as="geometry" />
