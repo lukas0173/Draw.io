@@ -148,6 +148,18 @@
             <mxPoint x="224" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IyyHt3gIi4fyA3eTQuwq-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="275" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IyyHt3gIi4fyA3eTQuwq-5" value="Trigger button (right handed)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="335" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IyyHt3gIi4fyA3eTQuwq-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IyyHt3gIi4fyA3eTQuwq-4" target="IyyHt3gIi4fyA3eTQuwq-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="279" as="sourcePoint" />
+            <mxPoint x="330" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
