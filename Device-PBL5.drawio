@@ -202,7 +202,7 @@
             <mxPoint x="440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mED8aOtxLqFeWninYERp-10" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mED8aOtxLqFeWninYERp-10" value="1.5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mED8aOtxLqFeWninYERp-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
