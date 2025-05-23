@@ -226,6 +226,9 @@
         <mxCell id="mED8aOtxLqFeWninYERp-15" value="z = 0.12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mED8aOtxLqFeWninYERp-16" value="z = 0.3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
