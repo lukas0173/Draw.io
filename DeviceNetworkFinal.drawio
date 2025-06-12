@@ -16,7 +16,7 @@
         <mxCell id="EBua4EwX1-XOJ06J3Kp9-5" value="Speed&lt;div&gt;Travel Distance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EBua4EwX1-XOJ06J3Kp9-7" value="&lt;div&gt;&lt;div&gt;Engine Status&lt;/div&gt;Door Status&lt;div&gt;Window status&lt;/div&gt;&lt;/div&gt;Headlight&lt;div&gt;Backlight&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="EBua4EwX1-XOJ06J3Kp9-7" value="&lt;div&gt;&lt;div&gt;Engine Status&lt;/div&gt;Door Status&lt;/div&gt;Headlight&lt;div&gt;Turn Signals&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="350" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="EBua4EwX1-XOJ06J3Kp9-8" value="Car pedal&lt;div&gt;Sterring Wheel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="EBua4EwX1-XOJ06J3Kp9-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Headlight&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EBua4EwX1-XOJ06J3Kp9-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Backlight&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EBua4EwX1-XOJ06J3Kp9-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Turn Signals&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1065" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EBua4EwX1-XOJ06J3Kp9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="EBua4EwX1-XOJ06J3Kp9-33" edge="1">
