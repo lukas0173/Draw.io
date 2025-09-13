@@ -52,7 +52,7 @@
           <mxGeometry x="300" y="290" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svbZnB81R6wZBrqTPmot-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="560" height="240" as="geometry" />
+          <mxGeometry x="560" y="120" width="560" height="330" as="geometry" />
         </mxCell>
         <mxCell id="svbZnB81R6wZBrqTPmot-34" value="Applications" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="585" y="140" width="135" height="30" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="svbZnB81R6wZBrqTPmot-47" value="If not on time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="885" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svbZnB81R6wZBrqTPmot-48" value="Bus Tracking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svbZnB81R6wZBrqTPmot-48" value="Route Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
