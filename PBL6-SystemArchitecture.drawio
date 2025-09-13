@@ -99,15 +99,7 @@
         <mxCell id="svbZnB81R6wZBrqTPmot-47" value="If not on time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="885" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svbZnB81R6wZBrqTPmot-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-48" target="svbZnB81R6wZBrqTPmot-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="320" />
-              <mxPoint x="520" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="svbZnB81R6wZBrqTPmot-48" value="Route Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svbZnB81R6wZBrqTPmot-48" value="Route Information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="svbZnB81R6wZBrqTPmot-49" value="Xem các dự án có sẵn coi tính năng nào hay" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
@@ -130,7 +122,23 @@
         <mxCell id="svbZnB81R6wZBrqTPmot-53" value="Button board&lt;br&gt;(Route selection)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="svbZnB81R6wZBrqTPmot-54" value="Button&lt;div&gt;(Full seat)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svbZnB81R6wZBrqTPmot-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-54" target="svbZnB81R6wZBrqTPmot-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="400" />
+              <mxPoint x="520" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svbZnB81R6wZBrqTPmot-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-54" target="svbZnB81R6wZBrqTPmot-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="480" />
+              <mxPoint x="1040" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svbZnB81R6wZBrqTPmot-54" value="Button&lt;div&gt;(Full seat + Broken)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
