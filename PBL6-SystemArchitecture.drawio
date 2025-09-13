@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Page-1" id="xbrMlowVpysPjEKhbVqo">
-    <mxGraphModel dx="1700" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2499" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,11 +19,10 @@
         <mxCell id="svbZnB81R6wZBrqTPmot-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-1" target="svbZnB81R6wZBrqTPmot-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="svbZnB81R6wZBrqTPmot-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-1" target="svbZnB81R6wZBrqTPmot-38">
+        <mxCell id="svbZnB81R6wZBrqTPmot-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-1" target="svbZnB81R6wZBrqTPmot-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="90" />
-              <mxPoint x="520" y="90" />
+              <mxPoint x="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -63,6 +62,13 @@
         <mxCell id="svbZnB81R6wZBrqTPmot-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-38" target="svbZnB81R6wZBrqTPmot-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="svbZnB81R6wZBrqTPmot-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svbZnB81R6wZBrqTPmot-38" target="svbZnB81R6wZBrqTPmot-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="svbZnB81R6wZBrqTPmot-38" value="Server process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -89,6 +95,12 @@
         </mxCell>
         <mxCell id="svbZnB81R6wZBrqTPmot-48" value="Route Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svbZnB81R6wZBrqTPmot-49" value="Xem các dự án có sẵn coi tính năng nào hay" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svbZnB81R6wZBrqTPmot-50" value="Menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
