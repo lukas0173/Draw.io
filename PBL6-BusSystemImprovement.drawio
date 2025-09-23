@@ -11,6 +11,9 @@
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YXkIQpynCNFqppVOOFn-3" value="Light Indicator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YXkIQpynCNFqppVOOFn-4" value="Push buttons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
