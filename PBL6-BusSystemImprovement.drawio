@@ -4,26 +4,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6YXkIQpynCNFqppVOOFn-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="520" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="6YXkIQpynCNFqppVOOFn-1" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YXkIQpynCNFqppVOOFn-2" value="Positioning&lt;div&gt;(GPS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6YXkIQpynCNFqppVOOFn-3" value="Light Indicator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="6YXkIQpynCNFqppVOOFn-3" value="Light Indicator" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YXkIQpynCNFqppVOOFn-4" value="Push buttons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YXkIQpynCNFqppVOOFn-5" value="Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YXkIQpynCNFqppVOOFn-6" value="Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YXkIQpynCNFqppVOOFn-7" value="Mobile Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YXkIQpynCNFqppVOOFn-8" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YXkIQpynCNFqppVOOFn-9" value="Button Panel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YXkIQpynCNFqppVOOFn-12" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6YXkIQpynCNFqppVOOFn-14" value="At the Station" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6YXkIQpynCNFqppVOOFn-15" value="On the Bus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
