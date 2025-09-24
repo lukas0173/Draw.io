@@ -584,6 +584,36 @@
             <mxPoint x="1640.0000000000002" y="1679.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-197" value="Management&lt;div&gt;Dashboard&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="1760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396.9999999999998" y="1784" as="sourcePoint" />
+            <mxPoint x="477.0000000000002" y="1784" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-199" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Visual&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;dashboard&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="1760" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196.99999999999977" y="1798" as="sourcePoint" />
+            <mxPoint x="277.0000000000002" y="1798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-201" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Server Data&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="187" y="1778" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396.9999999999998" y="1824" as="sourcePoint" />
+            <mxPoint x="477.0000000000002" y="1824" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-203" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Admin&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;interaction&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="1800" width="90" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
