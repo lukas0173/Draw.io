@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="Page-1" id="IJm5mm4XeN8IWuT5u6mj">
-    <mxGraphModel dx="1426" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="548" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,57 @@
         </mxCell>
         <mxCell id="GfLsMkW95VEtjMX5fsOj-44" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Processed insights&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="479" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-45" value="At the Station" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="645" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="655" as="sourcePoint" />
+            <mxPoint x="280" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="684.8" as="sourcePoint" />
+            <mxPoint x="480" y="684.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.9999999999998" y="685" as="sourcePoint" />
+            <mxPoint x="680.0000000000002" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-49" value="On the Bus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="645" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="684.8" as="sourcePoint" />
+            <mxPoint x="280" y="684.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="715" as="sourcePoint" />
+            <mxPoint x="280" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-54" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Physical Input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-55" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Power Supply&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="669" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-56" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Environmental Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167" y="702" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-57" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Digitized&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;sensor data packets&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="654" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-58" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Routed and secured data streams&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="651" width="90" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
