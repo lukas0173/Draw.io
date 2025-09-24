@@ -491,7 +491,7 @@
         <mxCell id="GfLsMkW95VEtjMX5fsOj-169" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Packaged&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;data&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="1539" width="90" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="GfLsMkW95VEtjMX5fsOj-174" value="Button Panel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-174" value="Push Buttons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1521" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GfLsMkW95VEtjMX5fsOj-175" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
@@ -523,6 +523,9 @@
         </mxCell>
         <mxCell id="GfLsMkW95VEtjMX5fsOj-181" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Packaged&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;data&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1539" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-182" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1521" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
