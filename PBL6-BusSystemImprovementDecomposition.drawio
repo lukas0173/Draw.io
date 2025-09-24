@@ -274,6 +274,48 @@
         <mxCell id="GfLsMkW95VEtjMX5fsOj-77" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Routed packets&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="807.38" width="90" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-82" value="Protocols" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="968.09" as="sourcePoint" />
+            <mxPoint x="280" y="968.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="969.8" as="sourcePoint" />
+            <mxPoint x="480" y="969.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-85" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Raw data streams&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="948.62" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-86" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Secured, formatted data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="944.62" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="969.8" as="sourcePoint" />
+            <mxPoint x="630" y="969.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="749.9999999999998" y="970" as="sourcePoint" />
+            <mxPoint x="830.0000000000002" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-89" value="Routers/Switches" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-90" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Secured, formatted data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="944.62" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-91" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Routed packets&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="946" width="90" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
