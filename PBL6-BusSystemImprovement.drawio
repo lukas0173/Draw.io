@@ -88,7 +88,7 @@
         <mxCell id="4-XDOQkDN4WXzjCxwZ7--1" value="Private APIs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="720" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4-XDOQkDN4WXzjCxwZ7--2" value="Private APIs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4-XDOQkDN4WXzjCxwZ7--2" value="Management&lt;div&gt;Dashboard&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4-XDOQkDN4WXzjCxwZ7--5" value="Routers/Switches" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
