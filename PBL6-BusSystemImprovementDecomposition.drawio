@@ -290,7 +290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GfLsMkW95VEtjMX5fsOj-85" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Raw data streams&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="948.62" width="80" height="10" as="geometry" />
+          <mxGeometry x="200" y="944.62" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="GfLsMkW95VEtjMX5fsOj-86" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Secured, formatted data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="396" y="944.62" width="90" height="10" as="geometry" />
@@ -310,11 +310,11 @@
         <mxCell id="GfLsMkW95VEtjMX5fsOj-89" value="Routers/Switches" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="930" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GfLsMkW95VEtjMX5fsOj-90" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Secured, formatted data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="546" y="944.62" width="90" height="10" as="geometry" />
+        <mxCell id="GfLsMkW95VEtjMX5fsOj-90" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Data packets&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="951.62" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="GfLsMkW95VEtjMX5fsOj-91" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Routed packets&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="946" width="90" height="10" as="geometry" />
+          <mxGeometry x="748" y="953" width="90" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
