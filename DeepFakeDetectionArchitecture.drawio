@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="6YWNSsReCID_jo_d1YcA">
-    <mxGraphModel dx="1033" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,12 +25,9 @@
         <mxCell id="OsFO0-4TDtxPdKwaWRpz-2" value="MTCNN Face Detection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsFO0-4TDtxPdKwaWRpz-3" target="OsFO0-4TDtxPdKwaWRpz-10">
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.374;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OsFO0-4TDtxPdKwaWRpz-3" target="OsFO0-4TDtxPdKwaWRpz-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="820" y="90" />
-              <mxPoint x="820" y="270" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OsFO0-4TDtxPdKwaWRpz-3" value="Alignment &amp;amp;&amp;nbsp;&lt;div&gt;Cropping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
