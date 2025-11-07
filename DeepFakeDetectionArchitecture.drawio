@@ -28,8 +28,11 @@
         <mxCell id="OsFO0-4TDtxPdKwaWRpz-3" value="Alignment &amp;amp;&amp;nbsp;&lt;div&gt;Cropping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-8" value="Preprocessing &amp;amp; Face Extraction" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="130" width="200" height="30" as="geometry" />
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-8" value="Preprocessing &amp;amp; Face Extraction" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="425" y="130" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-9" value="Video Input" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330.14" y="-150" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
