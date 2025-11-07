@@ -46,26 +46,20 @@
         <mxCell id="OsFO0-4TDtxPdKwaWRpz-12" value="EfficientNet-B4 (CNN backbone)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="120.28" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="300" y="360" width="480" height="120" as="geometry" />
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="OsFO0-4TDtxPdKwaWRpz-17" target="OsFO0-4TDtxPdKwaWRpz-19" parent="1">
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" source="OsFO0-4TDtxPdKwaWRpz-19" target="OsFO0-4TDtxPdKwaWRpz-20" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-17" value="Frame Sampling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-19" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Attention&lt;/div&gt;&lt;div&gt;Mechanism&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="OsFO0-4TDtxPdKwaWRpz-19" target="OsFO0-4TDtxPdKwaWRpz-20" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-20" value="Bidirectional&amp;nbsp;&lt;div&gt;LSTM Layers&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-19" value="MTCNN Face Detection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-20" value="Alignment &amp;amp;&amp;nbsp;&lt;div&gt;Cropping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OsFO0-4TDtxPdKwaWRpz-21" value="Preprocessing &amp;amp; Face Extraction" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="425" y="450" width="230" height="30" as="geometry" />
+        <mxCell id="OsFO0-4TDtxPdKwaWRpz-21" value="Temporal Sequence Analysis" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="305" y="300" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
