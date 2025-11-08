@@ -65,7 +65,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="960" />
-              <mxPoint x="700" y="960" />
+              <mxPoint x="670" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="StOdFcSq11V-wXky46ey-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-12" target="StOdFcSq11V-wXky46ey-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="960" />
+              <mxPoint x="1040" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -142,13 +150,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-43" value="Time-Series Database&lt;div&gt;(Timestream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-44" value="Relational Database&lt;div&gt;(PostgreSQL)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-45" value="Caching Layer&lt;div&gt;(Redis)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
