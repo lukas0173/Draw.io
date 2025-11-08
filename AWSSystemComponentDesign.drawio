@@ -7,7 +7,7 @@
         <mxCell id="EI7NuzwVMbCJRvCoa70v-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="100" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EI7NuzwVMbCJRvCoa70v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-1" target="EI7NuzwVMbCJRvCoa70v-4">
+        <mxCell id="EI7NuzwVMbCJRvCoa70v-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-1" target="EI7NuzwVMbCJRvCoa70v-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EI7NuzwVMbCJRvCoa70v-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;IoT Device&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;on Buses&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
