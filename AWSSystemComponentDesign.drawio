@@ -162,8 +162,8 @@
         <mxCell id="StOdFcSq11V-wXky46ey-13" value="Rest API" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-26" value="Trigger&lt;div&gt;Notification&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="658" y="760" width="112" height="30" as="geometry" />
+        <mxCell id="StOdFcSq11V-wXky46ey-26" value="Trigger&lt;div&gt;Notification&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="678" y="760" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-27" value="Queries&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;routes/stops&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="805" y="710" width="270" height="30" as="geometry" />
@@ -179,6 +179,12 @@
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-45" value="Caching Layer&lt;div&gt;(Redis)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="980" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StOdFcSq11V-wXky46ey-53" value="Processed&lt;div&gt;Data&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="850" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="StOdFcSq11V-wXky46ey-54" value="Caches&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="840" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
