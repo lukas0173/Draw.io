@@ -64,7 +64,7 @@
         <mxCell id="EI7NuzwVMbCJRvCoa70v-11" value="MQTT" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-12" target="StOdFcSq11V-wXky46ey-8">
+        <mxCell id="StOdFcSq11V-wXky46ey-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-12" target="StOdFcSq11V-wXky46ey-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="740" />
@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-8" target="StOdFcSq11V-wXky46ey-45">
+        <mxCell id="StOdFcSq11V-wXky46ey-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-8" target="StOdFcSq11V-wXky46ey-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1180" y="610" />
@@ -153,10 +153,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-8" target="StOdFcSq11V-wXky46ey-44">
+        <mxCell id="StOdFcSq11V-wXky46ey-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-8" target="StOdFcSq11V-wXky46ey-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1220" y="620" />
+              <mxPoint x="1220" y="630" />
               <mxPoint x="1220" y="1030" />
             </Array>
           </mxGeometry>
