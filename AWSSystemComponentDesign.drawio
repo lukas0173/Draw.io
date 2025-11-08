@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="Si89BkMTGTC90sxuUZYh">
-    <mxGraphModel dx="1240" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="StOdFcSq11V-wXky46ey-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-8" target="EI7NuzwVMbCJRvCoa70v-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="StOdFcSq11V-wXky46ey-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-8" target="EI7NuzwVMbCJRvCoa70v-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="900" />
+              <mxPoint x="670" y="820" />
+              <mxPoint x="771" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EI7NuzwVMbCJRvCoa70v-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="840" width="320" height="120" as="geometry" />
@@ -59,21 +65,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-12" target="StOdFcSq11V-wXky46ey-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-12" target="StOdFcSq11V-wXky46ey-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="960" />
-              <mxPoint x="670" y="960" />
+              <mxPoint x="670" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-12" target="StOdFcSq11V-wXky46ey-45">
+        <mxCell id="StOdFcSq11V-wXky46ey-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EI7NuzwVMbCJRvCoa70v-12" target="StOdFcSq11V-wXky46ey-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="960" />
-              <mxPoint x="1040" y="960" />
+              <mxPoint x="910" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,12 +87,14 @@
         <mxCell id="StOdFcSq11V-wXky46ey-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-1" target="StOdFcSq11V-wXky46ey-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-1" target="EI7NuzwVMbCJRvCoa70v-12">
+        <mxCell id="StOdFcSq11V-wXky46ey-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="800" as="targetPoint" />
             <Array as="points">
               <mxPoint x="670" y="480" />
               <mxPoint x="1140" y="480" />
-              <mxPoint x="1140" y="810" />
+              <mxPoint x="1140" y="800" />
+              <mxPoint x="930" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,7 +144,7 @@
           <mxGeometry x="410" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-26" value="Trigger&lt;div&gt;Notification&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="658" y="780" width="112" height="30" as="geometry" />
+          <mxGeometry x="658" y="760" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-27" value="Queries&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;routes/stops&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="805" y="710" width="270" height="30" as="geometry" />
@@ -150,13 +153,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-43" value="Time-Series Database&lt;div&gt;(Timestream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="605" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-44" value="Relational Database&lt;div&gt;(PostgreSQL)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="785" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-45" value="Caching Layer&lt;div&gt;(Redis)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="975" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
