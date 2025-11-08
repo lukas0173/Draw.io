@@ -150,13 +150,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-43" value="Time-Series Database&lt;div&gt;(Timestream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-44" value="Relational Database&lt;div&gt;(PostgreSQL)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="785" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-45" value="Caching Layer&lt;div&gt;(Redis)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="975" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
