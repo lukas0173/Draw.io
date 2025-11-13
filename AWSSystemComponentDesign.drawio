@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="Si89BkMTGTC90sxuUZYh">
-    <mxGraphModel dx="1901" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,9 +157,6 @@
         <mxCell id="StOdFcSq11V-wXky46ey-12" value="Rest API" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="910" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="StOdFcSq11V-wXky46ey-13" value="Rest API" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="620" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-26" value="Trigger&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Notification&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="645" y="750" width="160" height="30" as="geometry" />
         </mxCell>
@@ -214,8 +211,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ECgFid6HNI7S2U9O0Lb-13" value="Rest API" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="590" width="60" height="30" as="geometry" />
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-13" value="DNS query" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="590" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-14" value="&lt;span&gt;API Gateway&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="481" y="490" width="120" height="60" as="geometry" />
