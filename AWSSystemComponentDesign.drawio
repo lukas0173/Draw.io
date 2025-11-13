@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="800" y="910" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="790" y="900" width="330" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="780" y="490" width="350" height="340" as="geometry" />
         </mxCell>
@@ -268,10 +274,10 @@
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-36" value="Private Subnet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="310" y="1580" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ECgFid6HNI7S2U9O0Lb-37" value="Application&lt;div&gt;Load&lt;/div&gt;&lt;div&gt;Balancer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-37" value="Internal&amp;nbsp;&lt;div&gt;Load Balancer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1620" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-ECgFid6HNI7S2U9O0Lb-38" value="NAT&lt;div&gt;Gateways&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-38" value="ECS/Fargate Cluster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1620" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
