@@ -8,7 +8,7 @@
           <mxGeometry x="780" y="890" width="330" height="180" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-58" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="600" y="510" width="510" height="340" as="geometry" />
+          <mxGeometry x="760" y="510" width="350" height="340" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-57" target="EI7NuzwVMbCJRvCoa70v-8">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-1" value="&lt;span&gt;API Gateway&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="610" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="StOdFcSq11V-wXky46ey-4" target="StOdFcSq11V-wXky46ey-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
