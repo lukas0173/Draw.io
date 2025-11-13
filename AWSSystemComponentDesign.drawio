@@ -279,6 +279,12 @@
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-38" value="ECS/Fargate Cluster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1620" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-49" value="Public Subnets" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-50" value="Private Subnets" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="710" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
