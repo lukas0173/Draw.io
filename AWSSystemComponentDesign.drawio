@@ -239,22 +239,40 @@
           <mxGeometry x="240" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1320" width="720" height="440" as="geometry" />
+          <mxGeometry x="240" y="1320" width="720" height="560" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-29" value="VPC - Region: ap-southeast-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="260" y="1330" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1360" width="280" height="360" as="geometry" />
+          <mxGeometry x="280" y="1360" width="280" height="450" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-31" value="AZ1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="315" y="1360" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1390" width="240" height="80" as="geometry" />
+          <mxGeometry x="300" y="1390" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-33" value="Public Subnet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="310" y="1390" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-34" value="NAT&lt;div&gt;Gateways&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1430" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-35" value="Application&lt;div&gt;Load&lt;/div&gt;&lt;div&gt;Balancer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1430" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1580" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-36" value="Private Subnet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1580" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-37" value="Application&lt;div&gt;Load&lt;/div&gt;&lt;div&gt;Balancer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1620" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-38" value="NAT&lt;div&gt;Gateways&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1620" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
