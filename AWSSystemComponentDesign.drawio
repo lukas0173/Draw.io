@@ -235,6 +235,27 @@
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Route 53&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="180" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1320" width="720" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-29" value="VPC - Region: ap-southeast-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1330" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1360" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-31" value="AZ1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1360" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1390" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ECgFid6HNI7S2U9O0Lb-33" value="Public Subnet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1390" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
