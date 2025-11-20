@@ -252,14 +252,25 @@
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-50" value="Private Subnets" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="420" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ud2X1DB-PN8EBGJdZTN-1" target="_ud2X1DB-PN8EBGJdZTN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_ud2X1DB-PN8EBGJdZTN-1" value="S3 Bucket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="870" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ud2X1DB-PN8EBGJdZTN-2" value="Time-Series Database&lt;div&gt;(Timestream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ud2X1DB-PN8EBGJdZTN-2" target="EI7NuzwVMbCJRvCoa70v-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="870" />
+              <mxPoint x="890" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-2" value="Athena" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ud2X1DB-PN8EBGJdZTN-4" value="Scheduled&lt;div&gt;Export&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="935" y="965" width="70" height="30" as="geometry" />
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-4" value="Analytic queries" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="865" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
