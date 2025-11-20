@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="Si89BkMTGTC90sxuUZYh">
-    <mxGraphModel dx="1039" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="676" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="850" y="500" width="350" height="340" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="860" y="890" width="330" height="180" as="geometry" />
+          <mxGeometry x="720" y="890" width="470" height="180" as="geometry" />
         </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-58" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="840" y="510" width="350" height="340" as="geometry" />
@@ -177,6 +177,9 @@
         <mxCell id="StOdFcSq11V-wXky46ey-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="StOdFcSq11V-wXky46ey-7" target="StOdFcSq11V-wXky46ey-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="StOdFcSq11V-wXky46ey-43" target="_ud2X1DB-PN8EBGJdZTN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="StOdFcSq11V-wXky46ey-43" value="Time-Series Database&lt;div&gt;(Timestream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="870" y="900" width="120" height="60" as="geometry" />
         </mxCell>
@@ -248,6 +251,15 @@
         </mxCell>
         <mxCell id="-ECgFid6HNI7S2U9O0Lb-50" value="Private Subnets" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-1" value="S3 Bucket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-2" value="Time-Series Database&lt;div&gt;(Timestream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ud2X1DB-PN8EBGJdZTN-4" value="Scheduled&lt;div&gt;Export&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="935" y="965" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
