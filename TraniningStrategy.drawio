@@ -4,11 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SLjV5gxU-qKSOgrulse--2" edge="1" parent="1" source="MS0cR3j7OWl4-9-Da0VH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SLjV5gxU-qKSOgrulse--1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MS0cR3j7OWl4-9-Da0VH-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Start" vertex="1">
           <mxGeometry height="80" width="120" x="80" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--5" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="SLjV5gxU-qKSOgrulse--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SLjV5gxU-qKSOgrulse--1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Epoch Loop" vertex="1">
           <mxGeometry height="120" width="140" x="250" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--6" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="SLjV5gxU-qKSOgrulse--4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Balanced Data Loading&lt;div&gt;(WeightedRandomSampler + Augmentation)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="480" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Model Optimization&lt;div&gt;(FocalLoss, Mixed Precision, Grad Clipping)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
