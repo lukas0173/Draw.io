@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="mEz7epQdmFxiP2vfgoWy">
-    <mxGraphModel dx="1141" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,12 @@
             <mxPoint x="490" y="960" as="sourcePoint" />
             <mxPoint x="490" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bvvs2U2E_A-P8axtskc6-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Quantitative&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Analysis&lt;/span&gt;&lt;div&gt;(Metrics &amp;amp; Statistics)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="500" y="922" as="geometry" />
+        </mxCell>
+        <mxCell id="Bvvs2U2E_A-P8axtskc6-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Qualitative Analysis&lt;div&gt;(Visual Inspection)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="260" y="922" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
