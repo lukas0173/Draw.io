@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="gv2YbO9Ueu852EKuMX_l">
-    <mxGraphModel dx="1501" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MS0cR3j7OWl4-9-Da0VH-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Start" vertex="1">
-          <mxGeometry height="80" width="120" x="80" y="200" as="geometry" />
+          <mxGeometry height="80" width="120" x="260" y="40" as="geometry" />
         </mxCell>
         <mxCell id="SLjV5gxU-qKSOgrulse--5" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="SLjV5gxU-qKSOgrulse--3">
           <mxGeometry relative="1" as="geometry" />
@@ -22,8 +22,57 @@
         <mxCell id="SLjV5gxU-qKSOgrulse--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Balanced Data Loading&lt;div&gt;(WeightedRandomSampler + Augmentation)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="480" y="210" as="geometry" />
         </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--9" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SLjV5gxU-qKSOgrulse--7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SLjV5gxU-qKSOgrulse--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Model Optimization&lt;div&gt;(FocalLoss, Mixed Precision, Grad Clipping)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="720" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--10" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SLjV5gxU-qKSOgrulse--8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Validation Data&lt;div&gt;(No Grads, Standard Transform)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="720" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--12" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SLjV5gxU-qKSOgrulse--11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Performance Check&lt;div&gt;(Accuracy, AUC, EER)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--21" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SLjV5gxU-qKSOgrulse--13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="LR Scheduler&lt;div&gt;(ReduceLROnPlateau)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--16" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SLjV5gxU-qKSOgrulse--14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--20" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SLjV5gxU-qKSOgrulse--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Is Best Model?" vertex="1">
+          <mxGeometry height="120" width="140" x="510" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--17" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="SLjV5gxU-qKSOgrulse--15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Save Weights" vertex="1">
+          <mxGeometry height="60" width="200" x="720" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--19" edge="1" parent="1" source="SLjV5gxU-qKSOgrulse--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="SLjV5gxU-qKSOgrulse--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Eaerly Stopping?" vertex="1">
+          <mxGeometry height="120" width="140" x="510" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="SLjV5gxU-qKSOgrulse--18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="260" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
