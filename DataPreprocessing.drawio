@@ -88,6 +88,15 @@
         <mxCell id="Nm5G164SXa93Az4Ko98D-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" value="Confidence&amp;nbsp;&lt;div&gt;&amp;gt; 0.9?&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="800" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;span&gt;Select All&lt;/span&gt;&lt;div&gt;&lt;span&gt;Frames&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;span&gt;Select All&lt;/span&gt;&lt;div&gt;&lt;span&gt;Frames&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;span&gt;Select All&lt;/span&gt;&lt;div&gt;&lt;span&gt;Frames&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="940" y="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
