@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="NG2Zd2j1YkdfusIFDQ1H">
-    <mxGraphModel dx="1188" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EOaZu63B77EIJeNFl46Z-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Total Frames&lt;div&gt;&amp;gt; Target?&lt;/div&gt;" vertex="1">
+        <mxCell id="EOaZu63B77EIJeNFl46Z-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" value="Total Frames&lt;div&gt;&amp;gt; Target?&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="460" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Nm5G164SXa93Az4Ko98D-11" edge="1" parent="1" source="Nm5G164SXa93Az4Ko98D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Nm5G164SXa93Az4Ko98D-10">
@@ -55,11 +55,26 @@
         <mxCell id="Nm5G164SXa93Az4Ko98D-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Iterate Frames" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="Nm5G164SXa93Az4Ko98D-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Detect Faces" vertex="1">
-          <mxGeometry height="60" width="120" x="470" y="560" as="geometry" />
+        <mxCell id="Nm5G164SXa93Az4Ko98D-17" edge="1" parent="1" source="Nm5G164SXa93Az4Ko98D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Nm5G164SXa93Az4Ko98D-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nm5G164SXa93Az4Ko98D-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Total Frames&lt;div&gt;&amp;gt; Target?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="140" x="640" y="540" as="geometry" />
+        <mxCell id="Nm5G164SXa93Az4Ko98D-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Detect Faces" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-18" edge="1" parent="1" source="Nm5G164SXa93Az4Ko98D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Nm5G164SXa93Az4Ko98D-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-20" edge="1" parent="1" source="Nm5G164SXa93Az4Ko98D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Nm5G164SXa93Az4Ko98D-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" value="Confidence&amp;nbsp;&lt;div&gt;&amp;gt; 0.9?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="740" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Detect Faces" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm5G164SXa93Az4Ko98D-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Crop &amp;amp; Resize&lt;div&gt;Face&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
