@@ -20,10 +20,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLjV5gxU-qKSOgrulse--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Balanced Data Loading&lt;div&gt;(WeightedRandomSampler + Augmentation)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="230" x="480" y="210" as="geometry" />
+          <mxGeometry height="60" width="200" x="480" y="210" as="geometry" />
         </mxCell>
         <mxCell id="SLjV5gxU-qKSOgrulse--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Model Optimization&lt;div&gt;(FocalLoss, Mixed Precision, Grad Clipping)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="760" y="210" as="geometry" />
+          <mxGeometry height="60" width="200" x="720" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
