@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="DTKUXsohRkoGhU6JKFwz">
-    <mxGraphModel dx="432" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="626" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,8 +29,14 @@
         <mxCell id="HY-n4zXYLRgAO7zzQZHE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Public IP" vertex="1">
           <mxGeometry height="40" width="120" x="500" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="HY-n4zXYLRgAO7zzQZHE-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Resolve" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="270" as="geometry" />
+        </mxCell>
         <mxCell id="HY-n4zXYLRgAO7zzQZHE-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Nginx Proxy Manager&lt;/b&gt;&lt;br&gt;TLS termination, routing" vertex="1">
           <mxGeometry height="60" width="160" x="300" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="HY-n4zXYLRgAO7zzQZHE-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Return" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="270" as="geometry" />
         </mxCell>
         <mxCell id="HY-n4zXYLRgAO7zzQZHE-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="90" width="440" x="160" y="450" as="geometry" />
@@ -67,6 +73,9 @@
         </mxCell>
         <mxCell id="HY-n4zXYLRgAO7zzQZHE-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Internal Docker network (not exposed)" vertex="1">
           <mxGeometry height="30" width="210" x="180" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="HY-n4zXYLRgAO7zzQZHE-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTPS" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
